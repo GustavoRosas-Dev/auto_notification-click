@@ -83,4 +83,4 @@ Espero que o "Auto Notification-Click" seja útil para outras pessoas que enfren
 
 ---
 
-Feito com um ☕ por [Gustavo Rosas](https://github.com/GustavoRosas-Dev)."# auto_notification-click" 
+Feito com um ☕ por [Gustavo Rosas](https://github.com/GustavoRosas-Dev).
