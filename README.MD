@@ -58,9 +58,9 @@ Com base nessa necessidade, criei o "Auto Notification-Click", um script Python 
 
 ## Uso
 
-1. Execute o script desejado (`apenas_script.py` ou qualquer versão do `script_e_interface.py`).
+1. Execute o script `main.py`.
 2. Selecione a imagem que representa o pop-up e a imagem do local de clique.
-3. Clique em "Iniciar Script".
+3. Clique em "Iniciar".
 4. Use 'CTRL+C' a qualquer momento para pausar o script.
 
 ## Contribuições
