@@ -1,4 +1,6 @@
 # Auto Notification-Click
+> Este repositório está atualmente disponibilizado de forma pública para fins de estudo. Sinta-se à vontade para fazer o download, criar sua cópia ou clonar o repositório para explorar o seu conteúdo.
+
 Automatização simples para fechar pop-ups e clicar em um local desejado em resposta a notificações.
 
 ## Sobre o Projeto
@@ -7,7 +9,7 @@ Este script em Python foi criado para automatizar o processo de fechar pop-ups e
 
 ## Contexto
 
-Este projeto é baseado em uma necessidade real enfrentada por um cliente que publicou um projeto no site freelancer. Embora eu não vá entrar em contato com esse cliente e resolver efetivamente o problema dele, usei essa situação como inspiração para desenvolver o "Auto Notification-Click".
+Este projeto é baseado em uma necessidade real enfrentada por um cliente que publicou um projeto no site freelancer. Embora eu não vá entrar em contato com esse cliente e resolver efetivamente o problema dele, usei essa situação como inspiração para desenvolver o **Auto Notification-Click**.
 
 ## Necessidade do Cliente
 
@@ -17,7 +19,7 @@ O cliente estava procurando uma solução para automatizar a interação com not
 
 ## Solução Desenvolvida
 
-Com base nessa necessidade, criei o "Auto Notification-Click", um script Python que utiliza a biblioteca `pyautogui` para interagir com a interface gráfica. O script é capaz de localizar pop-ups e clicar em posições específicas na tela em resposta a notificações.
+Com base nessa necessidade, criei o **Auto Notification-Click**, um script Python que utiliza a biblioteca `pyautogui` para interagir com a interface gráfica. O script é capaz de localizar pop-ups e clicar em posições específicas na tela em resposta a notificações.
 
 #### GIF Demonstração
 ![Captura de Tela da Solução](images/projeto/DemoGIF.gif) 
@@ -60,7 +62,7 @@ Com base nessa necessidade, criei o "Auto Notification-Click", um script Python 
 
 1. Execute o script `main.py`.
 2. Selecione a imagem que representa o pop-up e a imagem do local de clique.
-3. Clique em "Iniciar".
+3. Clique em 'Iniciar'.
 4. Use 'CTRL+C' a qualquer momento para pausar o script.
 
 ## Contribuições
@@ -79,7 +81,7 @@ Contribuições são bem-vindas! Se você deseja melhorar este projeto, siga os 
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ## Nota
-Espero que o "Auto Notification-Click" seja útil para outras pessoas que enfrentam problemas semelhantes de automação.
+Espero que o **Auto Notification-Click** seja útil para outras pessoas que enfrentam problemas semelhantes de automação.
 
 ---
 
